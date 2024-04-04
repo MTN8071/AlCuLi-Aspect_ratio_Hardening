@@ -1,0 +1,4 @@
+Random array size= 5578
+Breaking angle= 142.0
+Stress increment= 0.1
+CRSS= 0.11

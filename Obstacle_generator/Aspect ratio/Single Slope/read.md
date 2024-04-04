@@ -1,0 +1,4 @@
+Optimized Exclusion radius. This code would take on input params and gnerate single slop obstacle coordinates file for both cr and ag . Please note that num of lines and exclusion radius need to be balanced to avoid the code taking too long time. for 1000 lines exclusion radius of 2 works but for higher lines reduce the exclusion radius to lower values ....
+
+To run the programme type this in the commond prompt in the directory containg the main source file :- python main.py
+This will generate the .txt file depending upon the mode you have opted for  Along with that .png image will also be generated if you opted yes to image !
